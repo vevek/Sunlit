@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import ForecastIO
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
