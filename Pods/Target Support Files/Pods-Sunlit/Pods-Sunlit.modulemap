@@ -1,0 +1,6 @@
+framework module Pods_Sunlit {
+  umbrella header "Pods-Sunlit-umbrella.h"
+
+  export *
+  module * { export * }
+}
